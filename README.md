@@ -32,8 +32,8 @@ In Phase 1 :
  
     3. Text_crawler_ver1: Implemented to extract the text data from a URL. This script reads all URLs one by one from a CSV file inorder
        to crawl the text data from it.
-       
- In Phase 2 :
+       #s 
+ In Phase 2 : (You can find the below files in the spacific algorithem's folder) 
  
     4. CLF_MNB : This scripts was implemented for Supervised classification with self learning approach (in phase 2) with Multinomial
        Naïve Bayes.
